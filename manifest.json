@@ -1,0 +1,17 @@
+{
+  "name": "보석 십자수",
+  "short_name": "보석 십자수",
+  "description": "보석을 제자리로 옮겨 도트 그림을 완성하는 보석 십자수 퍼즐",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efeffb",
+  "theme_color": "#efeffb",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
